@@ -118,7 +118,3 @@ Submit the following files to Gradescope:
 
 ---
 
-## Testing Your Work
-1. Start the server:
-   ```bash
-   python DNSServer.py
